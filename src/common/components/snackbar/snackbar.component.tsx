@@ -20,6 +20,7 @@ export const SnackbarComponent: React.FunctionComponent<Props> = (props) => {
 
   return (
     <Snackbar
+      id='alert'
       anchorOrigin={position}
       open={open}
       autoHideDuration={autoHideDuration}
