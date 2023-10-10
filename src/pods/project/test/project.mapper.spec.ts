@@ -16,7 +16,7 @@ describe('project mapper specs', () => {
                 employees:[
                     {
                         id:'45456',
-                        employeeName:'culo',
+                        employeeName:'pepito',
                         isAssigned:true
                     }
                 ]
@@ -30,7 +30,7 @@ describe('project mapper specs', () => {
                 employees:[
                     {
                         id:'45456',
-                        employeeName:'culo',
+                        employeeName:'meganito',
                         isAssigned:true
                     }
                 ]

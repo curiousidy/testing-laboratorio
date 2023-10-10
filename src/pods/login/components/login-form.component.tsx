@@ -29,6 +29,7 @@ export const LoginFormComponent: React.FunctionComponent<Props> = (props) => {
           <TextFieldComponent
             name="password"
             label={`${literals.components.fields.password} *`}
+            id='password'
             type="password"
             variant="outlined"
           />
